@@ -104,6 +104,17 @@
 	    			</div>
 	  			</div>
 
+				
+				  <div class="card col-6 col-xl-4" style="width:1000%">
+				    <img class="card-img-top" src="yu2.jpg" alt="Card image" style="width:100%">
+	    			<div class="card-body">
+	      				<center>
+	      				<h4 class="card-title">Novi</h4>
+	      				<a href="#" class="btn btn-primary">Lihat Profil</a>
+	    				<center>
+	    			</div>
+	  			</div>
+
 	  			<div class="card col-6 col-xl-4" style="width:1000%">
 				    <img class="card-img-top" src="yu2.jpg" alt="Card image" style="width:100%">
 	    			<div class="card-body">
